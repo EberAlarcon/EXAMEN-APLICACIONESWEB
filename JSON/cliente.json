@@ -1,0 +1,72 @@
+[
+    {
+        "cedula":"1307986549",
+        "nombres": "Eber Alarcon",
+        "direccion": "Manta",
+        "telefono": "0988634571",
+        "correo_electronico": "eber@gmail.com"
+    },
+    {
+        "cedula":"1307986698",
+        "nombres": "Carlos Santana",
+        "direccion": "Manta",
+        "telefono": "0996302478",
+        "correo_electronico": "carlos@gmail.com"
+    },
+    {
+        "cedula":"1307901569",
+        "nombres": "Emiliano Moreira",
+        "direccion": "Manta",
+        "telefono": "0988012397",
+        "correo_electronico": "emiliano@gmail.com"
+    },
+    {
+        "cedula":"1309842013",
+        "nombres": "Luis Velez",
+        "direccion": "Manta",
+        "telefono": "0998145023",
+        "correo_electronico": "luis@gmail.com"
+    },
+    {
+        "cedula":"1300123657",
+        "nombres": "Elvis Macias",
+        "direccion": "Manta",
+        "telefono": "0923984520",
+        "correo_electronico": "elvis@gmail.com"
+    },
+    {
+        "cedula":"1307892302",
+        "nombres": "Milena Villafuerte",
+        "direccion": "Manta",
+        "telefono": "0945203690",
+        "correo_electronico": "milena@gmail.com"
+    },
+    {
+        "cedula":"1307986540",
+        "nombres": "Kevin Guagua",
+        "direccion": "Manta",
+        "telefono": "0988631478",
+        "correo_electronico": "kevin@gmail.com"
+    },
+    {
+        "cedula":"1305631489",
+        "nombres": "Adrian Alava",
+        "direccion": "Manta",
+        "telefono": "0988632364",
+        "correo_electronico": "adrian@gmail.com"
+    },
+    {
+        "cedula":"1304568702",
+        "nombres": "Luis Cedeño",
+        "direccion": "Manta",
+        "telefono": "0901329845",
+        "correo_electronico": "luisc@gmail.com"
+    },
+    {
+        "cedula":"1307562013",
+        "nombres": "Melina Cedeño",
+        "direccion": "Manta",
+        "telefono": "0910238945",
+        "correo_electronico": "melina@gmail.com"
+    }
+]

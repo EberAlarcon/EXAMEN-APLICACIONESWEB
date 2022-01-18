@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container mt-5" style="width: 30%">
+        <div class="card mb-5">
+            <div class="card-header text-center">Registrarse</div>
+            <div class="card-body">
+                <form action="/register" method="post" id="caja-registro">
+                    <div class="mb-3">
+                        <input
+                            type="text"
+                            class="form-control"
+                            name="cedula"
+                            id="cedula"
+                            placeholder="cedula"
+                            autofocus
+                        />
+                        <span id="n-error" aria-live="assertive"></span>
+                    </div>
+    
+                    <div class="mb-3">
+                        <input
+                            type="text"
+                            class="form-control"
+                            name="nombre"
+                            id="nombre"
+                            placeholder="nombre"
+                        />
+                        <span id="a-error" aria-live="assertive"></span>
+                    </div>
+    
+                    <div class="mb-3">
+                        <input
+                            class="form-control"
+                            type="text"
+                            name="direccion"
+                            id="direccion"
+                            placeholder="direccion"
+                        />
+                        <span id="nu-error" aria-live="assertive"></span>
+                    </div>
+    
+                    <div class="mb-3">
+                        <input
+                            class="form-control"
+                            type="text"
+                            name="telefono"
+                            id="telefono"
+                            placeholder="telefono"
+                        />
+                        <span id="p-error" aria-live="assertive"></span>
+                    </div>
+    
+                    <div class="mb-3">
+                        <input
+                            class="form-control"
+                            type="email"
+                            name="correo"
+                            id="correo"
+                            placeholder="correo"
+                        />
+    
+                    <div class="text-center">
+                        <button
+                            type="submit"
+                            class="btn btn-primary"
+                            data-bs-toggle="modal"
+                            data-bs-target="#miModal"
+                        >
+                            Registrar
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <script src="ingresocliente.js"></script>
+</body>
+</html>
